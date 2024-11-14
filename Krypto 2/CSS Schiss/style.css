@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: crimson;
+  color: crimson;
+  font-size: 40px;
+}
